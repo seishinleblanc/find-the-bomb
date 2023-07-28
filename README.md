@@ -23,7 +23,7 @@ Here are some quick steps to get you started:
 git clone [YOUR-REPO-URL]
 cd find-the-bomb
 ```
-You should see both this README.md and the base javascript file.
+You should see both this README.md and the base javascript file
 
 To run the file, simply use `node`:
 ```
